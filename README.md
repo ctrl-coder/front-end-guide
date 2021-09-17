@@ -1,6 +1,5 @@
-<p align="center">
-<img width="200" src="./media/front-end-guide-logo.png">
-</p>
+<img src="https://raw.githubusercontent.com/ctrl-coder/images-hosting/main/img/202109172346149.png" alt="logo" style="zoom:50%;" />
+
 
 front-end-guide项目是作者在学习和工作中，对所使用到的前端技术的系统总结，希望通过这个总结的过程进行知识的沉淀，同时也希望这个项目能够帮助更多想要系统学习前端的小伙伴们。
 
